@@ -18,6 +18,7 @@
     "nodemon": "^2.0.20"
   },
   "dependencies": {
+    "@fastify/cookie": "^8.3.0",
     "@fastify/jwt": "^6.3.3",
     "fastify": "^4.9.2"
   }
